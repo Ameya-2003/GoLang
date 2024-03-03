@@ -1,14 +1,6 @@
 # GoLang Programming 🚀
 
-Welcome to the GoLang Programming Showcase repository! 🎉 Here, you'll find a treasure trove of GoLang brilliance, sprinkled with code snippets and awesome projects. Dive in and explore the GoLang wonders! 🚀🐹
-
-## 📁 Table of Contents
-
-1. [Projects](#projects) 🛠️
-2. [Code Snippets](#code-snippets) ✨
-3. [Contributions](#contributions) 🤝
-4. [Getting Started](#getting-started) 🚦
-   
+Welcome to the GoLang Programming repository! 🎉 Here, you'll find a treasure trove of GoLang brilliance, sprinkled with code snippets and awesome projects. Dive in and explore the GoLang wonders! 🚀🐹
 
 ## 🛠️ Projects
 
